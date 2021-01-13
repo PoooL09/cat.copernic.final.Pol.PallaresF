@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name"> cat.copernic.final.pol.pallares</string>
+    <string name="action_settings">TOAST</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="third_fragment_label">Third Fragment</string>
+    <string name="next">Next</string>
+    <string name="fragment1">Fragment 1</string>
+    <string name="fragment2">Fragment 2</string>
+    <string name="fragment3">Fragment 3</string>
+    <string name="previous">Previous</string>
+
+    <string name="s">Select a fragment</string>
+    <string name="s2">Hello first fragment.</string>
+    <string name="s3">Hello second fragment.</string>
+</resources>
